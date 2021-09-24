@@ -2,7 +2,7 @@ import React from "react";
 
 export default function UsersTable({ results, handleClick }) {
 	return (
-		<div>
+		<div className="mb-5">
 			<h3 className="text-primary my-3">User List</h3>
 			<div className="table-responsive-md">
 				<table className="table table-striped table-bordered table-hover">
