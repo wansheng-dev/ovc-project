@@ -1,0 +1,12 @@
+@import "~bootstrap/scss/bootstrap.scss";
+
+.posts-table {
+  margin-bottom: 200px;
+}
+
+@media (max-width: 576px) { 
+  .table {
+    font-size: 0.6rem;
+  }
+}
+
